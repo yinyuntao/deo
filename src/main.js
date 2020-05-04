@@ -1,3 +1,5 @@
+import "assets/index.less"
+import "assets/common.css"
 class Animal {
     constructor(name) {
         this.name = name;
@@ -10,3 +12,6 @@ class Animal {
 const dog = new Animal('dog');
 
 console.log(123)
+
+
+document.body.appendChild(document.createElement('div'));
