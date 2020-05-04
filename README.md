@@ -39,4 +39,4 @@
             mode:'prodution',
             <!-- clean-webpack-plugin --> //清空之前打包文件
             <!-- copy-webpack-plugin --> //拷贝静态资源文件到dist目录下
-    12. 配置多进程提高打包速度
+    12. 配置多进程提高打包速度 ---测试
